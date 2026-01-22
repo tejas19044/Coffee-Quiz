@@ -1,6 +1,8 @@
 # Coffee-Quiz
 ✨ Built with Claude Code This is an experiment where I'm exploring Claude Code as a Product Manager - hosting this entire quiz with just prompting and literally 5 concise prompts. No manual coding required! 🚀
 
+Demo Link: https://coffee-quiz-black.vercel.app/
+
 ## TL;DR 🚀
 A playful personality quiz built **entirely using Claude Code** — no manual coding — to explore how far a **Product Manager can ship real products using prompt-driven development**.  
 5 concise prompts. Fully working app. Big learnings.
